@@ -1,0 +1,14 @@
+{
+  "name": "swamp-forge",
+  "description": "ZCode workbench for the Swamp automation platform (swamp-club.com): author, grade, and publish Swamp extensions, and capture proven agent sessions into deterministic Swamp models and workflows",
+  "version": "0.2.0",
+  "license": "MIT",
+  "keywords": [
+    "swamp",
+    "swamp-club",
+    "automation",
+    "extensions",
+    "workflows",
+    "registry"
+  ]
+}

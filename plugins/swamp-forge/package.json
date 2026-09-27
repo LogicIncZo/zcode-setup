@@ -1,0 +1,7 @@
+{
+  "name": "swamp-forge",
+  "version": "0.2.0",
+  "private": true,
+  "description": "ZCode plugin: authoring workbench and session-capture bridge for the Swamp automation platform",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+# Fixture extension used by tests/ to exercise scripts/grade-extension.sh.
+# It is illustrative, not a publishable extension.
+name: "@swamp-forge/fixture-model"
+display_name: "Fixture Model"
+type: "model"
+version: "v2026.09.10.1"
+channel: "beta"
+description: >
+  Minimal model-type extension fixture wrapping a fictional `examplectl` CLI,
+  used to verify the local grader end to end.
+license: "MIT"
